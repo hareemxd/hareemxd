@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# My name is Hareem, and welcome to my Github profile.  
+I'm on Github to learn more about and potentially contribute to some open-source documentation projects. In essence, this repository is a personal space for me to become more comfortable with Markdown and with Github's version-control and collaborative workflows.
 <!--
 **hareemxd/hareemxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
